@@ -64,7 +64,7 @@ func main() {
 	}
 	tool3 := model.Garage{
 		Id:   "R00000001",
-		Name: "Undercity",
+		Name: "ASUS",
 		Coordinate: &model.GarageCoordinate{
 			Latitude:  22.123123123,
 			Longitude: 123.1231313123,
